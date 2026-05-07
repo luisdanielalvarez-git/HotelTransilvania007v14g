@@ -1,0 +1,6 @@
+com\hoteltransilvania\usuarios\controller\UsuarioController.class
+com\hoteltransilvania\usuarios\service\UsuarioService.class
+com\hoteltransilvania\usuarios\models\Rol.class
+com\hoteltransilvania\usuarios\models\Usuario.class
+com\hoteltransilvania\usuarios\repository\UsuarioRepository.class
+com\hoteltransilvania\usuarios\UsuariosApplication.class
